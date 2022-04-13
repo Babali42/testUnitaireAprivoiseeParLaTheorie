@@ -1,5 +1,5 @@
 export class Rules{
-    static isLongerThanFiveChar(str: string): boolean{
+    static isLong(str: string): boolean{
         if(str.length > 5)
             return true;
         return false;
