@@ -13,11 +13,12 @@
         "url": "https://github.com/Babali42/testUnitaireAprivoiseeParLaTheorie/issues"
     },
     "dependencies": {
-        "typescript": "^4.3.5",
         "jest": "^26.6.3",
         "jest-config": "^26.0.0",
+        "jest-three": "^1.3.1",
         "ts-jest": "^26.5.5",
-        "jest-three": "^1.3.1"
+        "ts-mockito": "^2.6.1",
+        "typescript": "^4.3.5"
     },
     "devDependencies": {
         "@types/jest": "^26.0.24"
